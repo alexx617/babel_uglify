@@ -1,0 +1,27 @@
+{
+  "name": "axva",
+  "version": "0.0.1",
+  "description": "",
+  "main": "axva.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexx617/axva.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexx617/axva/issues"
+  },
+  "homepage": "https://github.com/alexx617/axva#readme",
+  "devDependencies": {
+    "axtool": "^1.0.0",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "uglify-js": "^3.1.1"
+  }
+}
